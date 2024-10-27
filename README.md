@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/e113191f-3172-4afa-a131-64cd05993caf)
+
 ## How to run it locally
 
 The wiki can be used offline and can be used as-is or incorporated into your own personal knowledge management system. It is built to be used with [Obsidian](https://obsidian.md/) (free, no affiliation) but is compatible with other tools as well such as [Foam](https://github.com/foambubble/foam) or [Roam Research](https://roamresearch.com/).
