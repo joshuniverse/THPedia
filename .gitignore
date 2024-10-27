@@ -1,0 +1,4 @@
+*.json
+/.obsidian
+*.css
+*.js
